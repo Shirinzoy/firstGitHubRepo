@@ -11,5 +11,8 @@ public class Git {
 		
 		System.out.println(sum);
 	}
-
+public void methodA(){
+	system.out.println("this is changes from upstream, upstream mean in remote repository");
 }
+	public void method(){
+		// this is second method for practive purpose
